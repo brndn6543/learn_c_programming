@@ -1,4 +1,4 @@
-# Learn C Programming Solution
+# Learn C Programming Solutions
 This repo contains solutions to basic programming challenges found in
 this application.
 
