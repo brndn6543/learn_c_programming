@@ -11,3 +11,7 @@ occasion, to brush up on fundamentals.
 3. Print Using a Function
 4. Search an Element
 5. Function Returning a Pointer
+6. Pointer Notation for Strings
+7. Struct as Function Argument
+8. Arithmetic Operations
+9. Return Statement

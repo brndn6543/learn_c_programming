@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 void search(int arr[], int num) {
     for (int i = 0; i <= 5; i++) {

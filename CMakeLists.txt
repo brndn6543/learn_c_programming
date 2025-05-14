@@ -28,8 +28,16 @@ add_executable(
         src/search_element.c
 )
 
+add_executable(
+        string_pointer
+        src/string_pointer.c
+)
+
 # Main executable.
 add_executable(
         learn_c_programming src/main.c
 )
-add_executable(function_return_pointer src/function_return_pointer.c)
+add_executable(struct_arg src/struct_arg.c)
+add_executable(arithmetic_ops src/arithmetic_ops.c)
+add_executable(comp_logic_and src/comp_logic_and.c)
+add_executable(return_statement src/return_statement.c)

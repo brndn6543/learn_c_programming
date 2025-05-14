@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 int *display(int *id) {
     return id;
