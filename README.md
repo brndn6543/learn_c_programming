@@ -15,3 +15,5 @@ occasion, to brush up on fundamentals.
 7. Struct as Function Argument
 8. Arithmetic Operations
 9. Return Statement
+10. Average Calculation
+11. Returning Pointers
