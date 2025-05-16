@@ -17,3 +17,5 @@ occasion, to brush up on fundamentals.
 9. Return Statement
 10. Average Calculation
 11. Returning Pointers
+12. Accessing Structs with Pointers
+13. Quotient and Remainder
