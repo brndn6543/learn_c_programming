@@ -19,3 +19,5 @@ occasion, to brush up on fundamentals.
 11. Returning Pointers
 12. Accessing Structs with Pointers
 13. Quotient and Remainder
+14. Displaying ASCII Value of Character
+15. Fibonacci
